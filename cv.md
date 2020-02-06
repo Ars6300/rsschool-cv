@@ -18,7 +18,7 @@ Self-motivated, creative, interested to details.
 HTML5/CSS3, basic level of Javascript, C#, Java.
 
 # Education
-**Westminster International University in Tashkent** 
+**Westminster International University in Tashkent**  
 B.S. in Business Information Systems  
 _Last year student_
 
